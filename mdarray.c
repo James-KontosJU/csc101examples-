@@ -10,7 +10,7 @@ int main ()
 	strcpy(class_list [0], "Kontos");
 	for(int i = 0; i < NUM_STUDENTS; i++)
 	{
-		printf("The First character of %s is %c\n", class_list[i], class_list[i][0]);
+		printf("The First character of %s is %c\n", class_list[i], class_list[i][]);
 	}
 
 } 

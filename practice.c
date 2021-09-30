@@ -53,7 +53,7 @@ int counter;
 		for(int v = 1 ; v <= counter;v++)
 			{
 				
-				printf("%4d ", m);
+				printf("%4d\n ", m);
 				m = m * 2;
 	
 
